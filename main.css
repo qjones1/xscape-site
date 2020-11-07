@@ -1,0 +1,20 @@
+.col-md-12 {
+    padding: 20px;
+}
+
+.button {
+    margin: 50px;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 4px;
+  }
+
+
+
+.card {
+    align-items: center;
+    text-align: center;
+    border: 0px;
+}
