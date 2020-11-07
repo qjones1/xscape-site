@@ -18,3 +18,8 @@
     text-align: center;
     border: 0px;
 }
+*,
+*::before,
+*::after {
+  padding: 0;
+}
